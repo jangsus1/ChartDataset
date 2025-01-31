@@ -1,2 +1,2 @@
-# ChartQA
-ChartQA data serving repo
+# ChartDataset
+ChartQA / charxiv data serving repo

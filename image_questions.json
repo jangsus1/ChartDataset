@@ -2252,7 +2252,7 @@
     "Q1": "What year did the poverty rate in Mississippi peak?"
   },
   "multi_col_60949.png": {
-    "Q0": "How many bars in the chart is above 750000 mark?",
+    "Q0": "How many bars in the chart have larger value than 750000?",
     "Q1": "What is x-axis represent in the chart?"
   },
   "24259131001104.png": {
@@ -3928,8 +3928,8 @@
     "Q1": "Is the light blue bar longer than the blue bar in terms of equal peak abilities??"
   },
   "two_col_40186.png": {
-    "Q0": "What is the value shows in cocaine ?",
-    "Q1": "what is the average of top and bottom bar in the chart ?"
+    "Q0": "what is the average of top and bottom bar in the chart?",
+    "Q1": "What is the value of 'Cocaine'?"
   },
   "multi_col_40258.png": {
     "Q0": "In United states , what is the highest bar value?",
